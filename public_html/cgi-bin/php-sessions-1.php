@@ -14,6 +14,6 @@ Name:<?php echo $_SESSION['firstName'] ?:"" ?> <br>
 <a href="php-sessions-2.php">Session-2 Page</a> <br>
 <a href="php-cgiform.php">Form Page</a> <br>
 
-<form action="php-destroy.php">
+<form action="php-destroy-session.php">
   <button>Destroy Session</button>
 </form>
